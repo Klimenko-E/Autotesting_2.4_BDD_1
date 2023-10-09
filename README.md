@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ed4nkl76j0wi7qlj?svg=true)](https://ci.appveyor.com/project/Klimenko-E/autotesting-2-4-bdd-1)
